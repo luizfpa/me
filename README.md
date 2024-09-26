@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luiz Araujo</h1>
+<h1 align="center">Hi 👋, I'm Luiz Fernando</h1>
 <h3 align="center">A passionate data science and analysis.</h3>
 
 - 🌱 I’m currently learning **SQL, Python, R, Excel and Power BI.**
